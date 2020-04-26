@@ -51,20 +51,6 @@
                 {{ page.content }}
             </div>
 
-            <!--- DIVIDING LINE -->
-            <hr>
-
-            <!-- POST TAGS -->
-            <div class="inline-tags">
-                <span>
-                    {% for tag in page.tags %}
-                        <a href="/tags/#{{tag}}">#{{ tag }}&nbsp;&nbsp;&nbsp;</a>
-                    {% endfor %}
-                </span>
-            </div>
-
-            <br>
-
             <!-- POST DATE -->
             <div class="post-date">
                 {{ page.date-string }}

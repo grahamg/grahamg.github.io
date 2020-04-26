@@ -1,11 +1,9 @@
 ---
 layout: post
-categories: posts
-title: Project Alpha 
-subtitle: This is the subtitle for Project Alpha. 
-featured-image: /images/2016-11-19/abstract-1.jpg
-tags: [project]
-date-string: APRIL 25, 2020 
+categories: project
+title: Project Beta
+subtitle: This is the subtitle for Project Beta.
+featured-image: /images/2016-11-19/abstract-2.jpg
 ---
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.

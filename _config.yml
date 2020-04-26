@@ -17,10 +17,10 @@ sass:
   sass_dir: _sass
   style: compressed
 
-permalink: /:categories/:year-:month-:day/:title.html
+permalink: /:categories/:title.html
 
 # Amount of post to show on home page
-paginate: 5
+paginate: 12 
 
 #kramdown:
 #  input: GFM

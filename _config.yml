@@ -4,7 +4,7 @@ baseurl: ""
 url: "https://grahamg.github.io"
 
 # Theme
-style: dark
+style: light
 
 # Author
 author:
